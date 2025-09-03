@@ -1,16 +1,13 @@
-# demo_1
+# Music Player App
 
-A new Flutter project.
+Ứng dụng nghe nhạc viết bằng **Flutter**  
 
-## Getting Started
+## Demo
+Tải APK tại đây: [Google Drive Link](https://drive.google.com/file/d/1vQsIQulHdoav8yY9Wl_jApMqQC573BBD/view?usp=sharing)  
 
-This project is a starting point for a Flutter application.
+## 🛠Công nghệ sử dụng
+- Flutter
+- Riverpod
+- just_audio
+- audio_video_progress_bar
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
